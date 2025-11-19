@@ -3,3 +3,6 @@ __pycache__/
 *.pth
 *.pt
 data/
+showcase/.next/
+showcase/node_modules/
+showcase/.turbo/
